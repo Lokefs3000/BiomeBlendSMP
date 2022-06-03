@@ -117,14 +117,14 @@ function removeItem(itemIndex) {
 }
 
 function rickroll() {
-    window.open("../lololololololoololololololololol/ricked.html", "_blank");
-    window.open("../lololololololoololololololololol/ricked.html", "_blank");
-    window.open("../lololololololoololololololololol/ricked.html", "_blank");
-    window.open("../lololololololoololololololololol/ricked.html", "_blank");
-    window.open("../lololololololoololololololololol/ricked.html", "_blank");
-    window.open("../lololololololoololololololololol/ricked.html", "_blank");
-    window.open("../lololololololoololololololololol/ricked.html", "_blank");
-    window.open("../lololololololoololololololololol/ricked.html", "_blank");
-    window.open("../lololololololoololololololololol/ricked.html", "_blank");
-    window.open("../lololololololoololololololololol/ricked.html", "_blank").focus();
+    window.open("../lololololololoololololololololol/ricked", "_blank");
+    window.open("../lololololololoololololololololol/ricked", "_blank");
+    window.open("../lololololololoololololololololol/ricked", "_blank");
+    window.open("../lololololololoololololololololol/ricked", "_blank");
+    window.open("../lololololololoololololololololol/ricked", "_blank");
+    window.open("../lololololololoololololololololol/ricked", "_blank");
+    window.open("../lololololololoololololololololol/ricked", "_blank");
+    window.open("../lololololololoololololololololol/ricked", "_blank");
+    window.open("../lololololololoololololololololol/ricked", "_blank");
+    window.open("../lololololololoololololololololol/ricked", "_blank").focus();
 }
