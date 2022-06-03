@@ -118,4 +118,13 @@ function removeItem(itemIndex) {
 
 function rickroll() {
     window.open("../lololololololoololololololololol/ricked.html");
+    window.open("../lololololololoololololololololol/ricked.html");
+    window.open("../lololololololoololololololololol/ricked.html");
+    window.open("../lololololololoololololololololol/ricked.html");
+    window.open("../lololololololoololololololololol/ricked.html");
+    window.open("../lololololololoololololololololol/ricked.html");
+    window.open("../lololololololoololololololololol/ricked.html");
+    window.open("../lololololololoololololololololol/ricked.html");
+    window.open("../lololololololoololololololololol/ricked.html");
+    window.open("../lololololololoololololololololol/ricked.html");
 }
