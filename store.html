@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>BiomeBlend SMP</title>
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+
+        <link href="style.css" rel="stylesheet">
+
+        <script src="main.js"></script>
+    </head>
+    <body onload="setupShop();" style="overflow-x: hidden;">
+        <div id="top">
+            <div id="load" style="visibility: hidden;"></div>
+        </div>
+
+        <div id="store"><p id="checkout">0 items in cart</p><p style="cursor: pointer; text-decoration: underline;" id="proceed">Procced to checkout</p></div>
+        
+        <div id="shop">
+            <button class="shopItem" id="b1">
+                <img src="assets/GoldenApple.png" style="width: 100%;">
+                <p id="count">8x for 1$</p>
+            </button>
+            <button class="shopItem" id="b2">
+                <img src="assets/Diamond.png" style="width: 100%;">
+                <p id="count">64x for 2$</p>
+            </button>
+        </div>
+
+        <div id="final" style="visibility: hidden;">
+            <br>
+            <h1 style="width: 100%; text-align: center; transform: scale(3);">Checkout</h1>
+            <div id="purchaseModel">
+
+            </div>
+
+            <p id="cost">Final cost: 0$</p>
+            <button id="buy">Proceed to payment</button>
+            <div style="height: 20px; width: 100%; position: absolute; top: 900px;">
+            <br></br></div>
+        </div>
+    </body>
+</html>
